@@ -1,0 +1,1 @@
+Sometimes is easier to edit bitmap images in a vector editor, but boring to import and adjust the image in the vector editor, for editing and export. This script does all the work for you, and opens the vector editor (Inkscape) with everything set up.
